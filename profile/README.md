@@ -1,6 +1,6 @@
-## Hi there 👋 this is the Diavgeia Project.
+## Hi there 👋 this is the Clarity project.
 
-_There is currently no available information about this project. We are under construction._
+Relating to the analysis and visualization of the diavgeia.gov.gr open data.
 
 <!--
 
