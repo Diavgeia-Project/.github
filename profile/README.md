@@ -1,4 +1,4 @@
-## Hi there 👋 this is the Clarity project.
+## Hi there 👋 this is the Diavgeia project.
 
 Relating to the analysis and visualization of the diavgeia.gov.gr open data.
 
