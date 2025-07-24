@@ -1,2 +1,2 @@
 # .github
-Description of project
+Project description.
