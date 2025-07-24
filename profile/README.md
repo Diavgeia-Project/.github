@@ -1,6 +1,6 @@
 ## Hi there 👋 this is the Diavgeia project.
 
-Relating to the analysis and visualization of the diavgeia.gov.gr open data.
+Relating to the analysis and visualization of the diavgeia.gov.gr open data. Objective is the evaluation of the state and management of greek municipalities through the analysis of published expense and budget documents. 
 
 <!--
 
